@@ -8,7 +8,6 @@ Branch: MnC 2022
 #include <stdbool.h>
 #define MAX_SIZE 20 
 
-
 void insertion_sort(char a[], int size);
 void bubble_sort(char a[], int size);
 void swap(char a[],int i, int j);
